@@ -1,5 +1,7 @@
 # CCTV_Recorder
 
+![CCTV_Recorder_Example](https://github.com/KimximyaFan/CCTV_Recorder/assets/107273680/ef43c92d-b4a2-4600-9c3a-a37fa3a86684)
+
 OpenCV를 이용해서 천안 어딘가의 CCTV를 보는 파이썬 코드
 
 
